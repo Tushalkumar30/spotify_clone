@@ -13,6 +13,11 @@ A frontend clone of Spotify built using **React.js**, **HTML**, **CSS**, and **J
 
 ---
 
+## 📸 Screenshots
+![Spotify_clone Demo screenshot](https://github.com/user-attachments/assets/8e2ced00-ee90-4709-a974-b4ff065393f0)
+
+--
+
 ## 🛠 Tech Stack
 
 - **React.js** – JavaScript library for building user interfaces.
